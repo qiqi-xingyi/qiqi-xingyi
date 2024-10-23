@@ -12,9 +12,11 @@
   <img src="https://img.shields.io/badge/Quantum_Biology-%23E4405F.svg?style=for-the-badge&logo=biotech&logoColor=white" />
 </div>
 
-<p align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHBsOWpqaDM4eW5ieXk5amRsdXd4N3Rwb3BlbWQzbWk1c3FrajQ2ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KAq5w47R9rmTuvWOWa/giphy.gif" width="100" alt="Custom GIF" />
-</p>
+<div align="center" style="display: flex; justify-content: center; align-items: center;">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHBsOWpqaDM4eW5ieXk5amRsdXd4N3Rwb3BlbWQzbWk1c3FrajQ2ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KAq5w47R9rmTuvWOWa/giphy.gif" width="100" alt="First GIF" />
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXF1NWd4emo5aGtpMTk4NHBkMW1mZ3Z1ZnY5ZThnZTJwMXQ5Z2ZxbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h0Cq1ClzO3UpupFPjP/giphy.gif" width="200" alt="Second GIF" style="margin-left: 20px;" />
+</div>
+
 
 
 ---
