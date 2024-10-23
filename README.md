@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Yuqi Zhang (张钰奇)</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=0F80EC&center=true&vCenter=true&width=600&lines=Always+Ready;Full+of+Energy;Everlasting+Vitality;Journeying+Towards+the+Stars;Quantum+Computing" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=0F80EC&center=true&vCenter=true&width=600&lines=Keep+Your+Passion;Journey+Toward+the+Stars;Learning+is+More+Important+Than+Papers;Gradually+Improve+Yourself;Diligence+Breeds+Talent;For+the+Advancement+of+Human+Civilization;Quantum+Computing;The+Key+to+Divine+Power;Superconducting,+Ion+Traps,+Neutral+Atoms,+Topological+Qubits" alt="Typing SVG">
 </p>
+
 
 ---
 <div align="center">
