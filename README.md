@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yuqi Zhang (张钰奇)</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=0F80EC&center=true&vCenter=true&width=600&lines=PhD+Student+in+Quantum+Computing;Researcher+in+Protein+Folding+Prediction;Participant+in+2023+Shenzhen+Quantum+Program;Enthusiast+of+Quantum+Biology+and+AI" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=0F80EC&center=true&vCenter=true&width=600&lines=Always+Ready;Full+of+Energy;Everlasting+Vitality;Journeying+Towards+the+Stars;Quantum+Computing" alt="Typing SVG">
 </p>
 
 ---
@@ -21,9 +21,10 @@
 <h2 align="center">About Me</h2>
 
 🌟 **PhD candidate at Kent State University**  
-🔬 Specializing in **quantum computing**, **protein folding prediction**, and **enzyme active site discovery**.  
-🌱 Passionate about **quantum algorithms** like **VQE** and their applications in **drug discovery**.  
-👨‍🔬 Previously worked at **Shenzhen Quantum Institute** and **University of Technology Sydney**.
+✨ **Participant in the 2023 Shenzhen Quantum Science and Engineering Institute's(SIQSE) "Quantum Talents Climbing Program"**
+🔬 Specializing in **Quantum Applications**, **Quantum Algorithms**，**Superconducting Quantum Computing** & **Quantum System Middleware**.  
+🌱 Passionate about **Quantum algorithms** like **VQE** and their applications.  
+
 
 ---
 
@@ -72,14 +73,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qiqi-xingyi&layout=compact&theme=radical" alt="Top Languages" />
 </div>
-
----
-
-<h2 align="center">🚀 Future Goals</h2>
-
-- **Develop novel quantum algorithms** for protein folding and active site prediction on real quantum hardware.
-- **Explore quantum machine learning** techniques for drug discovery.
-- **Contribute to open-source quantum computing libraries** like Qiskit and help grow the community.
 
 ---
 
