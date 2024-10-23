@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yuqi Zhang (张钰奇)</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=0F80EC&center=true&vCenter=true&width=600&lines=Keep+Your+Passion,+and+Journey+Toward+the+Stars;Papers+are+not+the+most+important;+what+truly+matters+is+learning+something+meaningful;Slowly+understand+the+world,+and+gradually+improve+yourself;Diligence+breeds+talent;For+the+advancement+of+human+civilization;Quantum+computing+is+the+key+to+divine+power;Superconducting,+ion+traps,+neutral+atoms,+topological+qubits,+silicon+quantum+dots" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=0F80EC&center=true&vCenter=true&width=600&lines=Keep+Your+Passion,+and+Journey+Toward+the+Stars;Papers+are+not+the+most+important;+what+truly+matters+is+learning+something+meaningful;Slowly+understand+the+world,+and+gradually+improve+yourself;Diligence+breeds+talent;For+the+advancement+of+human+civilization;Quantum+computing+is+the+key+to+divine+power;Superconducting,+ion+traps,+neutral+atoms,+topological+qubits,+silicon+quantum+dots" alt="Typing SVG">
 </p>
 
 
