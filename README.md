@@ -15,6 +15,7 @@
 </div>
 
 ---
+
 <div align="center" style="display: flex; justify-content: center; align-items: center;">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWtpbHh2MHd1ODM5eXRkc296MmRjYXhkZnMzbXdidGYxamhubmRzMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eNAsjO55tPbgaor7ma/giphy.gif" width="100" alt="First GIF" ;" />
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWw4dm02MGN4eWh1NmZodHY1cmUwNjRtMzdhNnhhdGN1aXo2ZmxtYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif" width="100" alt="First GIF" style="margin-left: 550px;" />
@@ -22,6 +23,7 @@
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXF1NWd4emo5aGtpMTk4NHBkMW1mZ3Z1ZnY5ZThnZTJwMXQ5Z2ZxbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h0Cq1ClzO3UpupFPjP/giphy.gif" width="178" alt="Second GIF" style="margin-left: 550px;" />
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2hydHE5enoxeTlmZmFyemh1cXdsODF4ZDhnbXQ1czc0aXI3Zjg1NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKLC8zBUd7eEteE/giphy.gif" width="120" alt="Second GIF" style="margin-left: 550px;" />
 </div>
+
 ---
 
 <h2 align="center">🌤️ About Me</h2>
