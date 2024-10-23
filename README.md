@@ -12,10 +12,6 @@
   <img src="https://img.shields.io/badge/Quantum_Biology-%23E4405F.svg?style=for-the-badge&logo=biotech&logoColor=white" />
 </div>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/f9k1tV7HyORcngKF8v/giphy.gif" width="80">
-</p>
-
 ---
 
 <h2 align="center">About Me</h2>
