@@ -8,7 +8,7 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/Quantum_Computing-%2312100E.svg?style=for-the-badge&logo=qiskit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Protein_Folding-%23734F96.svg?style=for-the-badge&logo=protein-data-bank&logoColor=white" />
+  <img src="https://img.shields.io/badge/Quantum_System-%23734F96.svg?style=for-the-badge&logo=protein-data-bank&logoColor=white" />
   <img src="https://img.shields.io/badge/Quantum_Biology-%23E4405F.svg?style=for-the-badge&logo=biotech&logoColor=white" />
 </div>
 
@@ -21,7 +21,7 @@
 <h2 align="center">About Me</h2>
 
 🌟 **PhD candidate at Kent State University**  
-✨ **Participant in the 2023 Shenzhen Quantum Science and Engineering Institute's(SIQSE) "Quantum Talents Climbing Program"**
+✨ **Participant in the 2023 Shenzhen Quantum Science and Engineering Institute's(SIQSE) "Quantum Talents Climbing Program"**.
 🔬 Specializing in **Quantum Applications**, **Quantum Algorithms**，**Superconducting Quantum Computing** & **Quantum System Middleware**.  
 🌱 Passionate about **Quantum algorithms** like **VQE** and their applications.  
 
