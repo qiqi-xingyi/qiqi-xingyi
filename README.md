@@ -21,7 +21,7 @@
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWw4dm02MGN4eWh1NmZodHY1cmUwNjRtMzdhNnhhdGN1aXo2ZmxtYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif" width="100" alt="First GIF" style="margin-left: 50px;" />
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHBsOWpqaDM4eW5ieXk5amRsdXd4N3Rwb3BlbWQzbWk1c3FrajQ2ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KAq5w47R9rmTuvWOWa/giphy.gif" width="100" alt="First GIF" style="margin-left: 50px;" />
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXF1NWd4emo5aGtpMTk4NHBkMW1mZ3Z1ZnY5ZThnZTJwMXQ5Z2ZxbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h0Cq1ClzO3UpupFPjP/giphy.gif" width="178" alt="Second GIF" style="margin-left: 50px;" />
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHMwNjY0NHRnODl4dTRsNG5oZDRxOGs5dHRsMjlrODA1eTYxM2pycyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3nWgXCpQpMUOrkoo/giphy.gif" width="100" alt="Second GIF" style="margin-left: 50px;" />
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3BwMjB3ZGozbzNkYzUzMGtiZW5tY3NqcXhpOXJ5NGd6Y3QwYjJ4ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QTfa8EZ9dQAHzF4e06/giphy.gif" width="100" alt="Second GIF" style="margin-left: 50px;" />
 </div>
 
 ---
