@@ -12,7 +12,6 @@
   <img src="https://img.shields.io/badge/Qiskit-%236929C4.svg?style=for-the-badge&logo=qiskit&logoColor=white" />
   <img src="https://img.shields.io/badge/PennyLane-%233C4A73.svg?style=for-the-badge&logo=pennylane&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/PaddlePaddle-%23000E4F.svg?style=for-the-badge&logo=paddlepaddle&logoColor=white" />
 </div>
 
 ---
