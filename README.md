@@ -32,33 +32,17 @@
 
 ---
 
-<h2 align="center">📊 GitHub Streak & Languages Used</h2>
+<h2 align="center">📊 GitHub Streak & 🔧Languages Used</h2>
 
 <div align="center" style="display: flex; justify-content: center; align-items: center;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=qiqi-xingyi&theme=radical" alt="GitHub Streak Stats" style="width: 55%;" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qiqi-xingyi&layout=compact&theme=radical" alt="Top Languages" style="width: 40%; margin-left: 40px;" />
 </div>
 
-
 ---
-
-<h2 align="center">🔧 Tech Stack</h2>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
-  <img src="https://img.shields.io/badge/-Qiskit-6929C4?style=for-the-badge&logo=ibm&logoColor=white">
-  <img src="https://img.shields.io/badge/-Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white">
-  <img src="https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white">
-  <img src="https://img.shields.io/badge/-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
-</div>
-
----
-
 <h2 align="center">📫 Get in Touch</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-link"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:yzhan135@kent.edu"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="http://your-website.com"><img src="https://img.shields.io/badge/Website-%23000000.svg?style=for-the-badge&logo=About.me&logoColor=white"></a>
 </p>
+
