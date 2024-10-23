@@ -25,6 +25,15 @@
 🔬 Specializing in **Quantum Applications**, **Quantum Algorithms**, **Quantum Biology** & **Quantum System Middleware**.  
 🌱 Passionate about **Quantum algorithms** like **VQE** and their applications.  
 
+---
+
+<h2 align="center">📊 GitHub Streak & Languages Used</h2>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=qiqi-xingyi&theme=radical" alt="GitHub Streak Stats" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qiqi-xingyi&layout=compact&theme=radical" alt="Top Languages" />
+</div>
 
 ---
 
@@ -37,16 +46,6 @@
   <img src="https://img.shields.io/badge/-Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white">
   <img src="https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white">
   <img src="https://img.shields.io/badge/-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
-</div>
-
----
-
-<h2 align="center">📊 GitHub Streak & Languages Used</h2>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=qiqi-xingyi&theme=radical" alt="GitHub Streak Stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qiqi-xingyi&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
 ---
