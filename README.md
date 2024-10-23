@@ -41,19 +41,11 @@
 
 ---
 
-<h2 align="center">📊 GitHub Stats & Streak</h2>
+<h2 align="center">📊 GitHub Streak & Languages Used</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=qiqi-xingyi&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=qiqi-xingyi&theme=radical" alt="GitHub Streak Stats" />
-</div>
-
----
-
-<h2 align="center">📊 Languages Used</h2>
-
-<div align="center">
+  <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qiqi-xingyi&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
