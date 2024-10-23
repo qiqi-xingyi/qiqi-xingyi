@@ -8,7 +8,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Quantum_Computing-%2312100E.svg?style=for-the-badge&logo=quantum-computing&logoColor=white" />
   <img src="https://img.shields.io/badge/Quantum_Biology-%23E4405F.svg?style=for-the-badge&logo=biotech&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyCharm-%23000000.svg?style=for-the-badge&logo=pycharm&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyCharm-%2321D789.svg?style=for-the-badge&logo=pycharm&logoColor=white" />
   <img src="https://img.shields.io/badge/Qiskit-%236929C4.svg?style=for-the-badge&logo=qiskit&logoColor=white" />
   <img src="https://img.shields.io/badge/PennyLane-%233C4A73.svg?style=for-the-badge&logo=pennylane&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white" />
