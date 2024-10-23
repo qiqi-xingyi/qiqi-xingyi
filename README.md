@@ -39,7 +39,7 @@
 
 <div align="center" style="display: flex; justify-content: center; align-items: center;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=qiqi-xingyi&theme=radical" alt="GitHub Streak Stats" style="width: 55%;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qiqi-xingyi&layout=compact&theme=radical" alt="Top Languages" style="width: 40%; margin-left: 200px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qiqi-xingyi&layout=compact&theme=radical" alt="Top Languages" style="width: 40%; margin-left: 20px;" />
 </div>
 
 ---
