@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yuqi Zhang (张煜琪)</h1>
+<h1 align="center">Hi 👋, I'm Yuqi Zhang (张钰奇)</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=0F80EC&center=true&vCenter=true&width=600&lines=PhD+Student+in+Quantum+Computing;Researcher+in+Protein+Folding+Prediction;Participant+in+2023+Shenzhen+Quantum+Program;Enthusiast+of+Quantum+Biology+and+AI" alt="Typing SVG">
