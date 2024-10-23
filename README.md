@@ -5,13 +5,16 @@
 </p>
 
 ---
-
 <div align="center">
-  <img src="https://img.shields.io/badge/Quantum_Computing-%2312100E.svg?style=for-the-badge&logo=qiskit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Quantum_System-%23734F96.svg?style=for-the-badge&logo=protein-data-bank&logoColor=white" />
+  <img src="https://img.shields.io/badge/Quantum_Computing-%2312100E.svg?style=for-the-badge&logo=quantum-computing&logoColor=white" />
   <img src="https://img.shields.io/badge/Quantum_Biology-%23E4405F.svg?style=for-the-badge&logo=biotech&logoColor=white" />
+  <img src="https://img.shields.io/badge/Qiskit-%236929C4.svg?style=for-the-badge&logo=qiskit&logoColor=white" />
+  <img src="https://img.shields.io/badge/PennyLane-%233C4A73.svg?style=for-the-badge&logo=pennylane&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/PaddlePaddle-%23000E4F.svg?style=for-the-badge&logo=paddlepaddle&logoColor=white" />
 </div>
 
+---
 <div align="center" style="display: flex; justify-content: center; align-items: center;">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWtpbHh2MHd1ODM5eXRkc296MmRjYXhkZnMzbXdidGYxamhubmRzMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eNAsjO55tPbgaor7ma/giphy.gif" width="100" alt="First GIF" ;" />
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWw4dm02MGN4eWh1NmZodHY1cmUwNjRtMzdhNnhhdGN1aXo2ZmxtYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif" width="100" alt="First GIF" style="margin-left: 550px;" />
@@ -19,12 +22,9 @@
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXF1NWd4emo5aGtpMTk4NHBkMW1mZ3Z1ZnY5ZThnZTJwMXQ5Z2ZxbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h0Cq1ClzO3UpupFPjP/giphy.gif" width="178" alt="Second GIF" style="margin-left: 550px;" />
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2hydHE5enoxeTlmZmFyemh1cXdsODF4ZDhnbXQ1czc0aXI3Zjg1NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKLC8zBUd7eEteE/giphy.gif" width="120" alt="Second GIF" style="margin-left: 550px;" />
 </div>
-
-
-
 ---
 
-<h2 align="center">About Me</h2>
+<h2 align="center">🌤️ About Me</h2>
 
 🌟 **PhD candidate in Computer Science**  
 ✨ Participant in the **2023 "Climbing Program"** at the **Shenzhen Institute for Quantum Science and Engineering (SIQSE)**    
@@ -33,7 +33,7 @@
 
 ---
 
-<h2 align="center">📊 GitHub Streak & 🔧Languages Used</h2>
+<h2 align="center">📊 GitHub Streak & 🔧 Languages Used</h2>
 
 <div align="center" style="display: flex; justify-content: center; align-items: center;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=qiqi-xingyi&theme=radical" alt="GitHub Streak Stats" style="width: 55%;" />
