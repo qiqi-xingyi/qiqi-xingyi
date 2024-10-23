@@ -16,7 +16,7 @@
 
 <h2 align="center">About Me</h2>
 
-🌟 **PhD candidate at Kent State University**  
+🌟 **PhD candidate in Computer Science**  
 ✨ Participant in the **2023 "Climbing Program"** at the **Shenzhen Institute for Quantum Science and Engineering (SIQSE)**    
 🔬 Specializing in **Quantum Applications**, **Quantum Algorithms**, **Quantum Biology** & **Quantum System Middleware**.  
 🌱 Passionate about **Quantum algorithms** like **VQE** and their applications.  
