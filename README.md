@@ -42,21 +42,6 @@
 
 ---
 
-<h2 align="center">🧪 Current Projects</h2>
-
-- 🔭 **[Quantum_Computing_Guide](https://github.com/qiqi-xingyi/Quantum_Computing_Guide)**  
-  A comprehensive guide for students to start learning quantum computing.
-
-- 🧬 **[Quantum_Protein_Folding](https://github.com/qiqi-xingyi/Quantum_Protein_Folding)**  
-  Research on utilizing VQE for predicting protein folding structures with a focus on active sites.
-
-- ⚙️ **[Toekn_swap](https://github.com/qiqi-xingyi/Toekn_swap)**  
-  Quantum circuit compilation techniques for optimizing token swapping.
-
-- 🚗 **[Deeplearning_car](https://github.com/qiqi-xingyi/Deeplearning_car)**  
-  Baidu DeepLearning project for self-driving car simulations.
-
----
 
 <h2 align="center">📊 GitHub Stats & Streak</h2>
 
