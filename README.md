@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yuqi Zhang (张钰奇)</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=0F80EC&center=true&vCenter=true&width=600&lines=Always+Ready;Full+of+Energy;Everlasting+Vitality;Journeying+Towards+the+Stars;Quantum+Computing" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=0F80EC&center=true&vCenter=true&width=600&lines=Give+it+your+all,+leave+no+regrets.;Always+Ready;Full+of+Energy;Everlasting+Vitality;Journeying+Towards+the+Stars;Quantum+Computing" alt="Typing SVG">
 </p>
 
 
