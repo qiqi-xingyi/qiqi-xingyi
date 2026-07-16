@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yuqi Zhang (张钰奇)</h1>
 
-<h3 align="center">PhD Student · Quantum Biological Computing · Quantum-HPC Systems</h3>
+<h3 align="center">PhD Student · Quantum Biological Computing · Quantum–HPC Systems</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0F80EC&center=true&vCenter=true&width=720&lines=Quantum+Biological+Computing;Quantum+Drug+Discovery;From+Algorithms+to+Utility-Scale+Hardware;Journeying+Towards+the+Stars" alt="Research interests" />
@@ -73,6 +73,7 @@ My research lies at the intersection of **quantum computing**, **high-performanc
     </td>
   </tr>
 </table>
+
 ---
 
 ## Research & Technical Stack
@@ -100,3 +101,6 @@ For publications, research details, and updates, visit **[yuqizhang.me](https://
 - **Google Scholar:** [Yuqi Zhang](https://scholar.google.com/citations?user=Q7Ybs-gAAAAJ)
 - **ORCID:** [0009-0005-9026-6906](https://orcid.org/0009-0005-9026-6906)
 
+<p align="center">
+  <em>Quantum Computing</em>
+</p>
