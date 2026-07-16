@@ -32,7 +32,7 @@ My research lies at the intersection of **quantum computing**, **high-performanc
 
 ## Selected Research
 
-<table>
+<table width="100%">
   <tr>
     <td width="105" align="center">
       <a href="https://sc25.supercomputing.org/">
@@ -40,7 +40,7 @@ My research lies at the intersection of **quantum computing**, **high-performanc
         <strong>SC25</strong>
       </a>
     </td>
-    <td>
+    <td width="100%">
       <strong><a href="https://github.com/qiqi-xingyi/QDockBank_">QDockBank</a></strong><br />
       Quantum-generated protein-fragment structures for ligand docking.<br /><br />
       <a href="https://dl.acm.org/doi/10.1145/3712285.3759799"><img src="https://img.shields.io/badge/Paper-ACM-0085CA?style=flat-square&logo=acm&logoColor=white" alt="ACM paper" /></a>
@@ -55,25 +55,24 @@ My research lies at the intersection of **quantum computing**, **high-performanc
         <strong>SC26</strong>
       </a>
     </td>
-    <td>
+    <td width="100%">
       <strong><a href="https://arxiv.org/abs/2607.06971">QSAD</a></strong><br />
       Non-iterative quantum sampling for peptide structure reconstruction.<br /><br />
       <a href="https://arxiv.org/abs/2607.06971"><img src="https://img.shields.io/badge/Preprint-arXiv-B31B1B?style=flat-square&logo=arxiv&logoColor=white" alt="QSAD preprint" /></a>
-      <img src="https://img.shields.io/badge/Code-Coming_Soon-lightgrey?style=flat-square&logo=github" alt="QSAD code coming soon" />
+      <img src="https://img.shields.io/badge/Code-Anonymous_Artifact-lightgrey?style=flat-square&logo=github" alt="QSAD code is currently hosted as an anonymous artifact" />
     </td>
   </tr>
   <tr>
     <td width="105" align="center">
       <img src="https://img.shields.io/badge/STATUS-SUBMITTED-8A2BE2?style=for-the-badge" alt="Submitted" />
     </td>
-    <td>
+    <td width="100%">
       <strong><a href="https://github.com/qiqi-xingyi/Qpocket">Qpocket</a></strong><br />
       Quantum-guided binding-pocket ensemble generation.<br /><br />
       <a href="https://github.com/qiqi-xingyi/Qpocket"><img src="https://img.shields.io/badge/Code_%26_Data-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="Qpocket repository" /></a>
     </td>
   </tr>
 </table>
-
 ---
 
 ## Research & Technical Stack
